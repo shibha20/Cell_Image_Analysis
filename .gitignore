@@ -1,0 +1,8 @@
+.venv/
+cell_images
+.DS_Store
+__pycache__/
+*.tif
+*.zip
+*.png
+*.jpg
